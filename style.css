@@ -41,6 +41,7 @@ img {
     box-shadow: 0 2px 5px rgba(0, 0, 0, 0.1);
 }
 
+
 .menu a {
     color: #ca9068;
     text-decoration: none;
@@ -51,13 +52,12 @@ img {
     transition: background 0.5s, color 0.3s; /*usado para fazer uma transição mais suave entre as cores abaixo selecionadas no .menu a:hover*/
 }
 
+
 .menu a:hover {
     background-color: #ca9068;
     color: #333;
     
 }
-
-
 
 .global {
     display: flex;
